@@ -1,0 +1,19 @@
+Autoencoder LOSO Results
+========================================
+S2  AUROC=0.532  threshold=0.8767
+S3  AUROC=0.818  threshold=1.8177
+S4  AUROC=0.833  threshold=1.8715
+S5  AUROC=0.955  threshold=0.5482
+S6  AUROC=0.986  threshold=0.4411
+S7  AUROC=0.974  threshold=0.4234
+S8  AUROC=0.986  threshold=0.2717
+S9  AUROC=0.773  threshold=0.3413
+S10  AUROC=0.776  threshold=1.3944
+S11  AUROC=0.968  threshold=1.1295
+S13  AUROC=0.900  threshold=2.5850
+S14  AUROC=0.995  threshold=1.0584
+S15  AUROC=0.622  threshold=1.1699
+S16  AUROC=1.000  threshold=0.6946
+S17  AUROC=0.991  threshold=1.3121
+
+Mean AUROC: 0.874 +/- 0.142
